@@ -1,0 +1,8 @@
+---------------------
+Autor: Paco Pérez
+Editorial: IES SERPIS
+Categoria: "PROGRAMACIÓN"
+ISBN: ISBN-123456
+NOTA: "0"
+COMENTARIOS: Un gran libro de java
+---------------------

@@ -1,0 +1,11 @@
+Bienvenido al chat con Paco:
+----------------------------
+Hola que tal, cómo te llamas?
+Gareth Bale: me llamo Gareth Bale
+Paco: Hola Gareth Bale, ¿Cómo estás hoy?
+Gareth Bale: no muy bien
+Paco: Qué interesante... cuéntame más...
+Gareth Bale: es que no puedo jugar al golf
+Paco: No me interesa nada, cuéntame otra cosa.
+Gareth Bale: vete por ahí hombre!
+Paco: Nos vemos Gareth Bale!

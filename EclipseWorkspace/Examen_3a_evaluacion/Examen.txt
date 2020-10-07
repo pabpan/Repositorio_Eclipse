@@ -1,0 +1,18 @@
+--------------------
+------JOYERÍA-------
+--------------------
+El collar tiene una cadena de 12.34 cm. y las siguientes perlas:
+- Perla de plata que pesa 55. PVP: 123.75 €.
+- Perla de plata que pesa 56. PVP: 126.0 €.
+- Perla de platino que pesa 61. PVP: 732.0 €.
+--------------------
+------DESAYUNO------
+--------------------
+Magdalena de 190.0gr. con forma cuadrada y lleva_papel. PVP: 19.0 €.
+----------------------
+Magdalena de 83.0gr. con forma redonda y lleva_papel. PVP: 8.3 €.
+----------------------
+Napolitana de 210.0 g. con relleno de Cremade sabor 0PVP: 21.0 €.
+----------------------
+Napolitana de 332.0 g. con relleno de Chocolatede sabor 0PVP: 33.2 €.
+----------------------
