@@ -8,9 +8,9 @@ import java.util.*;
 public class conecta {
 
 	private static String db = "base_peliculas";
-	private static String login = "admin";
-	private static String password = "Su4r3zp4!";
-	private static String url_ = "jdbc:mysql://127.0.0.1:3306/" + db;
+	private static String login = "root";
+	private static String password = "0123456789";
+	private static String url_ = "jdbc:mysql://127.0.0.1:3306/base_peliculas?useSSL=false&useTimeZone=true&serverTimezone=UTC&allowpPublicKeyRetrieval=true";
 
 	private static Connection connection_;
 	private static Statement st_ = null;
